@@ -52,9 +52,7 @@ The text in the previous section can be turned into list with bullets or numbers
 c1 | c2 | c3
 ---|----|---
 a1 | b1 | c1
----|----|---
 a2 | b2 | c2
----|----|---
 a3 | b3 | c3
 
 
