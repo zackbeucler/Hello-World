@@ -42,7 +42,7 @@ The text in the previous section can be turned into list with bullets or numbers
 - [X] Task 1
 - [X] Task 2
 - [X] Task 3
-- [] Task 4 is not complete
+- [ ] Task 4 is not complete
 
 
 ## Quotes
