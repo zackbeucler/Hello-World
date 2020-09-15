@@ -42,7 +42,7 @@ The text in the previous section can be turned into list with bullets or numbers
 - [X] Task 1
 - [X] Task 2
 - [X] Task 3
-- [X] Task 4 is not complete
+- [] Task 4 is not complete
 
 
 ## Quotes
@@ -70,4 +70,13 @@ if __name__ == '__main__':
   unittest.main()
 ```
 
+## Adding Links
+This link to [GitHub Markdown Reference](https://guides.github.com/features/mastering-markdown/) was created using the following syntax
 
+\[text\]\(URL\)
+
+## Adding an image from the web
+
+![Conn Logo](https://www.conncoll.edu/media/website-media/visualidentity/images/Seal-Color.jpg)
+
+\!\[Alt Text\]\(URL\)
